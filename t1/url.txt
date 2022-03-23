@@ -1,1 +1,1 @@
-https://registry.hub.docker.com/_/node
+https://hub.docker.com/repository/docker/cereals30/my-node
